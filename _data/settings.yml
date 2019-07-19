@@ -1,0 +1,40 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Projects', url: ''}
+- {name: 'Resume', url: 'pages/resume.html'}
+- {name: 'About', url: 'pages/about.html'}
+- {name: 'Contact', url: 'pages/contact.html'}
+
+#-------------------------------
+# About Section
+
+about: >
+  # Portfolio Site
+
+  This is a personal portfolio site.
+
+  # Contact
+
+  You may contact me through [my email](mailto:jungyoungjoon@gmail.com).
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: 'Adop Shop', folder: 'adop-shop', file: 'projects/adop-shop.html'}
+- {name: 'Reading List', folder: 'reading-list', file: 'projects/reading-list.html'}
+- {name: 'Motorcycle Corral Finder', folder: 'moto-corral', file: 'projects/moto-corral.html'}
+- {name: 'Budget App', folder: 'budget-app', file: 'projects/budget-app.html'}
+- {name: 'Battleship', folder: 'battleship', file: 'projects/battleship.html'}
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'github', link: 'https://github.com/seoulstice'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/young-joon-jung/'}
+- {icon: 'envelope', link: 'mailto:jungyoungjoon@gmail.com'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

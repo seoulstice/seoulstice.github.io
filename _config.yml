@@ -1,0 +1,21 @@
+# Build settings
+
+markdown:   kramdown
+permalink:  none
+plugins:    [jekyll-sitemap]
+
+port: 4000
+
+url: seoulstice.github.io
+baseurl: /
+github: [metadata]
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+
+title:		           "Young Joon Jung"
+description:	       "Powered by Jekyll and GitHub Pages"
+author:              "Young Joon Jung"
