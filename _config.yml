@@ -7,7 +7,7 @@ plugins:    [jekyll-sitemap]
 port: 4000
 
 url: seoulstice.github.io
-baseurl: /
+baseurl: https://github.com/
 github: [metadata]
 
 sass:
