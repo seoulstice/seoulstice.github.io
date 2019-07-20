@@ -6,8 +6,14 @@ plugins:    [jekyll-sitemap]
 
 port: 4000
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 url: seoulstice.github.io
-baseurl: /
+baseurl: "/"
 github: [metadata]
 
 sass:

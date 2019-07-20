@@ -1,0 +1,15 @@
+<h4 class="resume-text">↓  Click to Download  ↓</h4>
+<div class="resume-container">
+  <a href="{{ site.url }}/assets/img/resume.pdf" download="youngjoonjung-resume" target="_blank">
+    <img src="{{ site.url }}/assets/img/{{ include.image }}" class="image">
+    <div class="overlay">
+      <div class="text">
+        {% if include.text %}
+          {{ include.text }} <i class="fa fa-arrow-right" aria-hidden="true"></i>
+        {% else %}
+          Download <i class="fa fa-arrow-right" aria-hidden="true"></i>
+        {% endif %}
+      </div>
+    </div>
+  </a>
+</div>
