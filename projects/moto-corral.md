@@ -9,4 +9,4 @@ This is a placeholder page for a Motorcycle Corral Finder application that is cu
 
 <!-- {% include image.html url="" image="projects/moto-corral/gun-pants.jpg" %} -->
 
-{% include code.html url="https://github.com/seoulstice/budget_app" image="projects/moto-corral/code.jpg" %}
+{% include code.html url="https://github.com/seoulstice/moto_corral_finder" image="projects/moto-corral/code.jpg" %}
