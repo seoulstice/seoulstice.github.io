@@ -4,27 +4,35 @@
 menu:
 - {name: 'Projects', url: ''}
 - {name: 'Resume', url: 'pages/resume.html'}
+- {name: 'Blog', url: 'pages/contact.html'}
 - {name: 'About', url: 'pages/about.html'}
-- {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
 # About Section
 
 about: >
+  # My Path to Software Development
+
+  After being honorably discharged from the military in 2013, I decided to utilize my GI Bill education benefits and pursue a degree in Environmental Science.  During the pursuit of that degree I chanced upon a website called freeCodeCamp which opened me up to the world of software development.  After building a few rudimentary projects, I knew that coding and software development were for me.  I decided to change direction with my education and attended Turing School's intensive 7 month Backend Web Development coding bootcamp.  At Turing I learned to build scalable, well-tested applications in group and solo settings.
+
+  # About Me
+
+  I am a software developer with a tenacious approach to learning.  I enjoy working with people and solving problems together and discovering the ways in which one can express creativity through code.  In my free time, I am an outdoor enthusiast who loves to hike with friends, rock climb, and go camping/backpacking.
+
   # Portfolio Site
 
-  This is a personal portfolio site built using Jekyll and Github Pages
+  This is a personal portfolio site that I built using Jekyll and deployed via Github Pages.
 
   # Contact
 
-  You may contact me through [my email](mailto:jungyoungjoon@gmail.com).
+  You may contact me through [my email](mailto:jungyoungjoon@gmail.com) or through the number listed on my resume.
 
 #-------------------------------
 # Work Section
 
 projects:
-- {name: 'Adop Shop', folder: 'adop-shop', file: 'projects/adop-shop.html'}
 - {name: 'Reading List', folder: 'reading-list', file: 'projects/reading-list.html'}
+- {name: 'Adop Shop', folder: 'adop-shop', file: 'projects/adop-shop.html'}
 - {name: 'Motorcycle Corral Finder', folder: 'moto-corral', file: 'projects/moto-corral.html'}
 - {name: 'Budget App', folder: 'budget-app', file: 'projects/budget-app.html'}
 - {name: 'Battleship', folder: 'battleship', file: 'projects/battleship.html'}
