@@ -5,7 +5,7 @@ title: 'Battleship'
 #### Purpose
 Battleship is a Ruby application designed to run in the command line and is a simplified interpretation of the classic board game Battleship.  Using a series of game scripts, a User can play a game of Battleship against a Computer AI with a simple graphic output.  Unit/Feature testing is done with Minitest.
 
-#### Topics Covers
+#### Topics Covered
 * Ruby
 * Unit/Feature testing with Minitest
 
