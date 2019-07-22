@@ -4,7 +4,7 @@
 menu:
 - {name: 'Projects', url: ''}
 - {name: 'Resume', url: 'pages/resume.html'}
-- {name: 'Blog', url: 'pages/contact.html'}
+- {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
 
 #-------------------------------
