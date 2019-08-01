@@ -12,6 +12,7 @@ Adop Shop is a mock E-Commerce Rails 5 application that was created over two wee
 * User / Admin roles
 * Sessions / Cart functionality
 * PostgreSQL / Relational Databases / ActiveRecord
+* Mobile responsive design
 
 #### Login Credentials
 Username: 'admin'  

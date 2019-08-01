@@ -9,6 +9,8 @@ Budget App is a single-page monthly budget application written in vanilla JavaSc
 * Function Constructors & Inheritance
 * DOM Manipulation
 * Event Listeners
+* Mobile responsive design
+
 
 
 {% include image.html url="https://yjj-budget-app.herokuapp.com/index.html" image="projects/budget-app/budget-app-1.png" %}

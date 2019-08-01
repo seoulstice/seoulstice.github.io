@@ -12,6 +12,7 @@ Reading List is a full-stack application built in Rails 5.  The purpose of this 
 * ActiveRecord
 * FactoryBot
 * Model Decorators
+* Mobile responsive design
 
 #### Login Credentials
 Username: 'John Doe'  
