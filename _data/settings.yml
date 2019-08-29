@@ -21,7 +21,7 @@ about: >
 
   # Portfolio Site
 
-  This is a personal portfolio site that I built using Jekyll and deployed via Github Pages.
+  This is a personal portfolio site that I built using Jekyll and deployed via Github Pages.  The codebase for this portfolio can be found [here](https://github.com/seoulstice/seoulstice.github.io).
 
   # Contact
 
@@ -31,8 +31,8 @@ about: >
 # Work Section
 
 projects:
-- {name: 'Reading List', folder: 'reading-list', file: 'projects/reading-list.html'}
 - {name: 'Adop Shop', folder: 'adop-shop', file: 'projects/adop-shop.html'}
+- {name: 'Reading List', folder: 'reading-list', file: 'projects/reading-list.html'}
 - {name: 'Motorcycle Corral Finder', folder: 'moto-corral', file: 'projects/moto-corral.html'}
 - {name: 'Budget App', folder: 'budget-app', file: 'projects/budget-app.html'}
 - {name: 'Battleship', folder: 'battleship', file: 'projects/battleship.html'}
